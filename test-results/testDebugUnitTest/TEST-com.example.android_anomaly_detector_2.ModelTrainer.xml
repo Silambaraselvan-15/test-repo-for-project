@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android_anomaly_detector_2.ModelTrainer" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-20T05:42:06.045Z" hostname="VICTUS16" time="0.293">
+  <properties/>
+  <testcase name="trainAndExportModels" classname="com.example.android_anomaly_detector_2.ModelTrainer" time="0.293"/>
+  <system-out><![CDATA[Starting training...
+System model trained with 4318 samples.
+Network model trained with 4318 samples.
+Training Complete! JSON files generated in project root.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
